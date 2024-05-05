@@ -12,7 +12,7 @@
 
 .slider-fram {
     overflow: hidden;
-    height: 75vh;
+    /* height: 75vh; */
     width: 90%;
 }
 
@@ -61,6 +61,7 @@
     display: inline-block;
     border-radius: 50%;
     margin: 5px;
+    cursor: pointer;
 }
 
 

@@ -92,3 +92,6 @@ leftBtn.addEventListener("mouseout", sliderAutoPlay);
 
 rightBtn.addEventListener("mouseover", stopSlider);
 rightBtn.addEventListener("mouseout", sliderAutoPlay);
+
+dotDiv.addEventListener("mouseover", stopSlider);
+dotDiv.addEventListener("mouseout", sliderAutoPlay);
